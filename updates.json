@@ -1,0 +1,51 @@
+[
+  {
+    "name": "main-play",
+    "id": 0,
+    "versionName": "1.05",
+    "versionCode": 5,
+    "url": "http://www.aviddapp.com/downloads/avidd_1.05.apk"
+  },
+  {
+    "name": "main-xda",
+    "id": 6,
+    "versionName": "1.05",
+    "versionCode": 5,
+    "url": "http://www.aviddapp.com/downloads/avidd_1.05.apk"
+  },
+  {
+    "name": "python-arm",
+    "id": 1,
+    "versionName": "3.5",
+    "versionCode": 1,
+    "url": "http://www.aviddapp.com/downloads/python_3.5_arm.zip"
+  },
+  {
+    "name": "python-i686",
+    "id": 2,
+    "versionName": "3.5",
+    "versionCode": 1,
+    "url": "http://www.aviddapp.com/downloads/python_3.5_i686.zip"
+  },
+  {
+    "name": "python-aarch64",
+    "id": 3,
+    "versionName": "3.5",
+    "versionCode": 1,
+    "url": "http://www.aviddapp.com/downloads/python_3.5_aarch64.zip"
+  },
+  {
+    "name": "python-x86_64",
+    "id": 4,
+    "versionName": "3.5",
+    "versionCode": 1,
+    "url": "http://www.aviddapp.com/downloads/python_3.5_x86_64.zip"
+  },
+  {
+    "name": "youtube-dl",
+    "id": 5,
+    "versionName": "2018.03.20",
+    "versionCode": 15,
+    "url": "http://www.aviddapp.com/downloads/binary_2018.03.20.zip"
+  }
+]
