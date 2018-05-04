@@ -2,19 +2,19 @@
   {
     "name": "main-play",
     "id": 0,
-    "versionName": "1.0",
-    "versionCode": 1,
+    "versionName": "2.0.3",
+    "versionCode": 1028,
     "urlMap": {
-      "ALL": "http://www.aviddapp.com/downloads/avidd_play_1.0.apk"
+      "ALL": "https://github.com/royale1223/Utils/releases/download/2018.05.01/avidd_2.0.3.apk"
     }
   },
   {
     "name": "main-xda",
     "id": 6,
-    "versionName": "1.0",
-    "versionCode": 1,
+    "versionName": "2.0.3",
+    "versionCode": 1028,
     "urlMap": {
-      "ALL": "http://www.aviddapp.com/downloads/avidd_xda_1.0.apk"
+      "ALL": "https://github.com/royale1223/Utils/releases/download/2018.05.01/avidd_2.0.3.apk"
     }
   },
   {
@@ -23,11 +23,11 @@
     "versionName": "1.0",
     "versionCode": 1,
     "urlMap": {
-      "ARM": "https://github.com/royale1223/Utils/raw/master/python_3.5_arm.zip",
-      "AARCH64": "https://github.com/royale1223/Utils/raw/master/python_3.5_aarch64.zip",
-      "X86_64": "https://github.com/royale1223/Utils/raw/master/python_3.5_x86_64.zip",
-      "I686": "https://github.com/royale1223/Utils/raw/master/python_3.5_i686.zip",
-      "ARMV7N": "https://github.com/royale1223/Utils/raw/master/python_3.5_arm.zip"
+      "ARM": "https://github.com/royale1223/Utils/releases/download/2018.05.01/python_3.5_arm.zip",
+      "AARCH64": "https://github.com/royale1223/Utils/releases/download/2018.05.01/python_3.5_aarch64.zip",
+      "X86_64": "https://github.com/royale1223/Utils/releases/download/2018.05.01/python_3.5_x86_64.zip",
+      "I686": "https://github.com/royale1223/Utils/releases/download/2018.05.01/python_3.5_i686.zip",
+      "ARMV7N": "https://github.com/royale1223/Utils/releases/download/2018.05.01/python_3.5_arm.zip"
     }
   },
   {
@@ -36,7 +36,7 @@
     "versionName": "2018.04.27",
     "versionCode": 18,
     "urlMap": {
-      "ALL": "https://github.com/royale1223/Utils/raw/master/binary_2018.04.27.zip"
+      "ALL": "https://github.com/royale1223/Utils/releases/download/2018.05.01/binary_2018.04.27.zip"
     }
   },
   {
@@ -45,11 +45,12 @@
     "versionName": "2018-04-09",
     "versionCode": 1,
     "urlMap": {
-      "ARM": "https://github.com/Khang-NT/ffmpeg-binary-android/releases/download/2018-04-09/arm-full.tar.bz2",
-      "AARCH64": "https://github.com/Khang-NT/ffmpeg-binary-android/releases/download/2018-04-09/arm64-v8a-full.tar.bz2",
-      "X86_64": "https://github.com/Khang-NT/ffmpeg-binary-android/releases/download/2018-04-09/x86_64-full.tar.bz2",
-      "I686": "https://github.com/Khang-NT/ffmpeg-binary-android/releases/download/2018-04-09/i686-full.tar.bz2",
-      "ARMV7N": "https://github.com/Khang-NT/ffmpeg-binary-android/releases/download/2018-04-09/arm-v7n-full.tar.bz2"
+      "ARM": "https://github.com/royale1223/ffmpeg-binary-android/releases/download/2018-04-09/arm-full.tar.bz2",
+      "AARCH64": "https://github.com/royale1223/ffmpeg-binary-android/releases/download/2018-04-09/arm64-v8a-full.tar.bz2",
+      "X86_64": "https://github.com/royale1223/ffmpeg-binary-android/releases/download/2018-04-09/x86_64-full.tar.bz2",
+      "I686": "https://github.com/royale1223/ffmpeg-binary-android/releases/download/2018-04-09/i686-full.tar.bz2",
+      "ARMV7N": "https://github.com/royale1223/ffmpeg-binary-android/releases/download/2018-04-09/arm-v7n-full.tar.bz2"
     }
   }
 ]
+
