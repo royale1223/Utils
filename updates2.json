@@ -2,19 +2,19 @@
   {
     "name": "main-play",
     "id": 0,
-    "versionName": "3.0.3",
-    "versionCode": 1037,
+    "versionName": "3.0.4",
+    "versionCode": 1038,
     "urlMap": {
-      "ALL": "https://github.com/royale1223/Utils/releases/download/3.0.3/avidd_3.0.3.apk"
+      "ALL": "https://github.com/royale1223/Utils/releases/download/3.0.4/avidd_3.0.4.apk"
     }
   },
   {
     "name": "main-xda",
     "id": 6,
-    "versionName": "3.0.3",
-    "versionCode": 1037,
+    "versionName": "3.0.4",
+    "versionCode": 1038,
     "urlMap": {
-      "ALL": "https://github.com/royale1223/Utils/releases/download/3.0.3/avidd_3.0.3.apk"
+      "ALL": "https://github.com/royale1223/Utils/releases/download/3.0.4/avidd_3.0.4.apk"
     }
   },
   {
