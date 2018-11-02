@@ -33,10 +33,10 @@
   {
     "name": "youtube-dl",
     "id": 5,
-    "versionName": "2018.09.24",
-    "versionCode": 25,
+    "versionName": "2018.10.29",
+    "versionCode": 26,
     "urlMap": {
-      "ALL": "https://github.com/royale1223/Utils/releases/download/2018.09.24/binary_2018.09.24.zip"
+      "ALL": "https://github.com/royale1223/Utils/releases/download/2018.10.29/binary_2018.10.29.zip"
     }
   },
   {
