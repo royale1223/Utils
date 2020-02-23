@@ -33,8 +33,8 @@
   {
     "name": "youtube-dl",
     "id": 5,
-    "versionName": "2020.1.15",
-    "versionCode": 33,
+    "versionName": "2020.2.23",
+    "versionCode": 34,
     "urlMap": {
       "ALL": "https://github.com/royale1223/Utils/releases/download/23.2.20/binary_2020.02.23.zip"
     }
